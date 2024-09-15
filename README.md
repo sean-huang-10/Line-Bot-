@@ -34,8 +34,9 @@
 
 3. **啟動專案**：在設定完成後，可以運行以下指令來啟動專案：
 
-    使用ngrok作為伺服器端
-    運行googlemap_funhtion.py
+    1.使用ngrok作為伺服器端
+      運行googlemap_funhtion.py
+    2.將程式部屬到GCP並修改成GCP可以使用的架構
     
 
 ## 未來規劃
